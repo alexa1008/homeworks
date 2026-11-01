@@ -1,3 +1,7 @@
 <Solution>
+  <Project Path="7davaleba/7davaleba.csproj" Id="8857e0d4-f5c0-4260-b26d-832f6e5ddb7c" />
+  <Project Path="davaleba2(loop)/davaleba2(loop).csproj" Id="aaa7d931-99e3-4589-b9ad-77a654a26da1" />
+  <Project Path="davaleba6/davaleba6.csproj" Id="f762aad8-6714-4447-83a8-a64e29c40bbb" />
   <Project Path="homework1/homework1.csproj" />
+  <Project Path="saklaso/saklaso.csproj" Id="a6785919-4fc4-4607-a23f-0ea2c38d9343" />
 </Solution>
